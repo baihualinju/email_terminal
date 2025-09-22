@@ -8,5 +8,9 @@
         "userId": "Ignacio",
         "password": "Gabriel",
         "userName": "mulder"
-    }
+    },
+
+        "userId": "user",
+        "password": "",
+        "userName": "admin"
 ]
