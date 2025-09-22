@@ -9,5 +9,10 @@
         "userId": "1037315288",
         "password": "996996",
         "userName": "weekend"
-    }
+    },
+     {
+        "userId": "user",
+        "password": "",
+        "userName": "anonymouse"
+    },
 ]
