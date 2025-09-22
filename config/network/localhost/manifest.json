@@ -1,19 +1,12 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "year": "2025",
+    "serverAddress": "127.0.0.1",
+    "serverName": "FBI: X-Files Division",
+    "iconName": "fbi.png",
+    "terminalID": "fbi",
     "defaultUser": {
         "userId": "user",
         "password": "",
         "userName": "anonymous"
-    },
-    "initialHistory": {
-        "user": [
-            "login admin@admin"
-        ],
-        "admin": [
-            "ping fbi.gov"
-        ]
     }
 }
