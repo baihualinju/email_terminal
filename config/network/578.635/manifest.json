@@ -5,8 +5,8 @@
     "iconName": "fbi.png",
     "terminalID": "fbi",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "anonymouse"
+        "userId": "Ignacio",
+        "password": "Gabriel",
+        "userName": "mulder"
     }
 }
