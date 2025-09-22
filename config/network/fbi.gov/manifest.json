@@ -1,6 +1,12 @@
 {
-    "serverAddress": "fbi.gov",
+    "year": "2025",
+    "serverAddress": "localhost",
     "serverName": "Federal Bureau of Investigation",
     "iconName": "fbi.png",
-    "terminalID": "fbi"
+    "terminalID": "fbi",
+    "defaultUser": {
+        "userId": "Ignacio",
+        "password": "",
+        "userName": "mulder"
+    }
 }
