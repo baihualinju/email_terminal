@@ -1,12 +1,12 @@
 {
     "year": "2025",
-    "serverAddress": "localhost",
-    "serverName": "Federal Bureau of Investigation",
-    "iconName": "fbi.png",
-    "terminalID": "fbi",
+    "serverAddress": "110.cn",
+    "serverName": "Cleveland Police",
+    "iconName": "RC.png",
+    "terminalID": "PD",
     "defaultUser": {
-        "userId": "user",
+        "userId": "0621",
         "password": "",
-        "userName": "anonymouse"
+        "userName": "shaw"
     }
 }
