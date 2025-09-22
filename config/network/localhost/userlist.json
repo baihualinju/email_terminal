@@ -9,17 +9,5 @@
         "userId": "1037315288",
         "password": "996996",
         "userName": "weekend"
-    },
-
-    {
-        "userId": "admin",
-        "password": "admin",
-        "userName": "root"
-    },
-
-    {
-        "userId": "n",
-        "password": "n",
-        "userName": "debug"
     }
 ]
