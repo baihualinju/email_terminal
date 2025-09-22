@@ -1,12 +1,12 @@
 {
     "year": "2025",
-    "serverAddress": "127.0.0.1",
+    "serverAddress": "localhost",
     "serverName": "FBI: X-Files Division",
-    "iconName": "config/network/localhost/fbi.png",
+    "iconName": "fbi.png",
     "terminalID": "fbi",
     "defaultUser": {
-        "userId": "Ignacio",
+        "userId": "user",
         "password": "",
-        "userName": "mulder"
+        "userName": "anonymous"
     }
 }
