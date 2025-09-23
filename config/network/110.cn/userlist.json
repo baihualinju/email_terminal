@@ -16,4 +16,10 @@
         "password": "666",
         "userName": "shaw"
     },
+
+    {
+        "userId": "user",
+        "password": "",
+        "userName": "anonymouse"
+    },
 ]
